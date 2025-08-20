@@ -27,7 +27,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 10:30 PM - 11:30 PM: [Exercise: Clarifying personality psychology](day_2/day_2a.ipynb)<br>
 11:30 PM - 12:00 PM: Walkthrough<br>
 12:00 PM - 01:30 PM: Lunch<br>
-01:30 AM - 02:30 PM: [Intro to classification and regression](day_3/day_3.pdf)<br>
+01:30 AM - 02:30 PM: [Talk: Intro to classification and regression](day_3/day_3.pdf)<br>
 02:30 PM - 02:45 PM: Break<br>
 02:45 PM - 03:45 PM: Exercise: Classifying media bias using [text generation](day_2/day_2b.ipynb) and [feature extraction](day_2/day_2c.ipynb)<br>
 03:45 PM - 04:15 PM: Walkthrough<br>
