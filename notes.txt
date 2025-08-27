@@ -1,4 +1,5 @@
 ## Notes
 
-- add ML baseline model for day_4b
+- Day 1 too quick in the afternoon (presentation 2a - word embeddings- shorter than second part)
+- Regression and classification slides flow could be improved, a bit confusing jumps sometimes
 
