@@ -9,7 +9,7 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549) and [Zak Hussa
 ### Schedule
 
 #### Day 1
-<font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
+<font style="font-size:10">09:15 AM - 09:30 AM: Welcome & Intro<br>
 09:30 AM - 10:30 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
 10:30 AM - 10:45 AM: Break<br>
 10:45 AM - 11:15 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
